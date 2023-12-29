@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "617266084414",
+    "firebase_url": "https://fir-leaderboard-demo-b073c-default-rtdb.firebaseio.com",
+    "project_id": "fir-leaderboard-demo-b073c",
+    "storage_bucket": "fir-leaderboard-demo-b073c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617266084414:android:e62e1a98fe074545a82f6f",
+        "android_client_info": {
+          "package_name": "com.appcreation.firebaseleaderboarddemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIk7ngP5DSKWxebPBcEIlepownXIPy9NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
